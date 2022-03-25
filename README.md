@@ -6,12 +6,12 @@ A tool to customizably randomize your playthrough of Pokemon Inclement Emerald.
 [Starter Guide for this tool](https://docs.google.com/document/d/11BQF5IK9LA7H2nWGZ0xlaM9tCxHP0ZYBM82-MmABSRo/  )  
 [In-Depth Documentation for this tool](https://docs.google.com/document/d/10YQNykg1vnEIjZAi8vuoqlYgqLIPndaFz2EM6GkSRM8/)
 ## Trailer:
-https://user-images.githubusercontent.com/58632052/160122369-3f27cbb3-59a5-4cd7-90dd-4df93b828a3f.mp4
+https://user-images.githubusercontent.com/58632052/160125258-d632a15c-6f97-45b5-8fca-f78bb5abdd0c.mp4
 ## Example recolors:
-![Bulba](https://user-images.githubusercontent.com/58632052/160123976-e5e7b66b-b2f4-4d20-9d63-a4c6cc4377d7.png)
-![Charma](https://user-images.githubusercontent.com/58632052/160123979-6af2b3b3-fcee-46a8-9220-0678898db1ef.png)
-![Squirt](https://user-images.githubusercontent.com/58632052/160123983-9b48cc08-43f2-483b-935a-bc1361e50cb1.png)
-![Snivy](https://user-images.githubusercontent.com/58632052/160123982-d001f0c4-5d93-492d-9725-c95cb9a1e97d.png)
-![Tepig](https://user-images.githubusercontent.com/58632052/160123985-dab7f7b2-51d7-4507-b18d-272dc117b45c.png)
-![Oshawott](https://user-images.githubusercontent.com/58632052/160123980-e847c6aa-b71a-4444-9699-c45d65145250.png)
-![vulpi](https://user-images.githubusercontent.com/58632052/160123986-b1fd5486-b3c0-4a7e-aeda-d807770ecb2d.png)
+![Bulba](https://user-images.githubusercontent.com/58632052/160125168-fcdd3bd2-1f24-48cd-aa4d-fc3153150a63.png)
+![Charma](https://user-images.githubusercontent.com/58632052/160125179-34bf587d-49cd-4cbd-955e-a8ef72634849.png)
+![Squirt](https://user-images.githubusercontent.com/58632052/160125200-012c96a2-143a-4858-bcf3-07ebe70a5e43.png)
+![Snivy](https://user-images.githubusercontent.com/58632052/160125214-da404a95-637c-423e-a72f-4be72b9dc93b.png)
+![Oshawott](https://user-images.githubusercontent.com/58632052/160125222-5b31dc27-51b7-4f6d-80b9-6e40a3c0f200.png)
+![Tepig](https://user-images.githubusercontent.com/58632052/160125231-9f472748-4a39-4c79-afbc-d5b44bd78ab0.png)
+![vulpi](https://user-images.githubusercontent.com/58632052/160125236-9fcaaecd-4da3-4191-ab01-4c4adf40dd18.png)
