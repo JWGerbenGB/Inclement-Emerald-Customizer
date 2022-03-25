@@ -3,6 +3,7 @@ A tool to customizably randomize your playthrough of Pokemon Inclement Emerald.
 ## Useful links:  
 **[Discord [Support, Updates etc.]](https://discord.gg/77saBfk3F8)**  
 [Inclement Emerald Discord](https://discord.gg/8m43nU7whs )  
+[Tool Download](https://github.com/JWGerbenGB/Inclement-Emerald-Customizer/releases)  
 [Starter Guide for this tool](https://docs.google.com/document/d/11BQF5IK9LA7H2nWGZ0xlaM9tCxHP0ZYBM82-MmABSRo/  )  
 [In-Depth Documentation for this tool](https://docs.google.com/document/d/10YQNykg1vnEIjZAi8vuoqlYgqLIPndaFz2EM6GkSRM8/)
 ## Trailer:
